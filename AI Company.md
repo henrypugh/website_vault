@@ -12,8 +12,6 @@ CEO/Founder
 
 Middle Management
 
-├── HR Manager
-
 ├── Finance Manager
 
 ├── Marketing Manager
@@ -28,8 +26,6 @@ Middle Management
 
 
 Core Departments
-
-├── Human Resources
 
 ├── Finance and Accounts
 

@@ -40,9 +40,3 @@ Core Departments
 └── Customer Service
 
 
-Support Staff
-
-├── Administrative Assistants
-
-└── Office Manager
-

@@ -22,6 +22,8 @@ Middle Management
 
 ├── IT Manager
 
+├── Legal Manager
+
 └── Customer Service Manager
 
 
@@ -37,6 +39,10 @@ Core Departments
 
 ├── IT
 
+├── Legal
+
 └── Customer Service
 
 
+
+With random variations at the group level (between departments) to see which performs best [[Universal Darwinism]]

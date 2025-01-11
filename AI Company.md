@@ -1,7 +1,7 @@
 
 # AI Company
 
-A human CEO overseeing a pyramid of AI workers that carry out tasks and bring new proposals, where its the human's job to decide what to do and the AI will carry it out.
+A human CEO overseeing a pyramid of AI workers that carry out tasks and bring new proposals, where its the human's job to decide what to do and the AI will carry it out. The human provides the good taste that AI cannot.
 
 # Theoretical Company Structure
 

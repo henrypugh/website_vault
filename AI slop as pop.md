@@ -1,6 +1,6 @@
 
 
-# AI slop as pop
+# AI Slop as Pop
 
 AI created content is already falling out of taste, with term "slop" for AI content now being widely used. It may become like pop music that some people still like but ultimately do not value much compared to other types of music, for its lack of soul. 
 

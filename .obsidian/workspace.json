@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New note test.md",
+                "file": "Metaphors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New note test"
+              "title": "Metaphors"
             }
           }
         ]
@@ -176,11 +176,18 @@
   "active": "ab3a16f9c78027f6",
   "lastOpenFiles": [
     "README.md",
+    "Metaphors.md",
+    "Test.md",
+    "~syncthing~New file.md.tmp",
+    "~syncthing~Untitled.md.tmp",
     "test.md",
+    "~syncthing~test.md.tmp",
+    "New note test.md",
+    "New note test.sync-conflict-20250111-000254-BOVZHOM.md",
+    "~syncthing~New note test.sync-conflict-20250111-000254-BOVZHOM.md.tmp",
     "README.sync-conflict-20250111-000126-BOVZHOM.md",
     "New note test.sync-conflict-20250111-000126-BOVZHOM.md",
     "test.sync-conflict-20250111-000126-BOVZHOM.md",
-    "New note test.md",
     "~syncthing~README.sync-conflict-20250111-000126-BOVZHOM.md.tmp",
     "~syncthing~New note test.sync-conflict-20250111-000126-BOVZHOM.md.tmp",
     "~syncthing~test.sync-conflict-20250111-000126-BOVZHOM.md.tmp",

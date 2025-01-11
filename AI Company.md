@@ -45,4 +45,4 @@ Core Departments
 
 
 
-With random variations at the group level (between departments) to see which performs best [[Universal Darwinism]]
+With random variations at the group level (between departments) to see which package of workers performs best [[Universal Darwinism]]

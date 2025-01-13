@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Economic Bets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Economic Bets"
             }
           },
           {
@@ -286,10 +286,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f20541f14961b286",
+  "active": "e8f3185cf832918b",
   "lastOpenFiles": [
-    "Necessity of Error 1.md",
     "README.md",
+    "Necessity of Error 1.md",
     "Universal Darwinism.md",
     "Test.md",
     "Necessity of Error.md",

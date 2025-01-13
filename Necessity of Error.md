@@ -1,3 +1,17 @@
+---
+tags:
+  - philosophy
+confidence:
+  - possible
+importance: 5
+date: 2025-01-13
+title: Necessity of Error
+slug: necessity-of-error
+status: in_progress
+started_at: 2025-01-10
+finished_at: ""
+---
+
 
 # Necessity of Error
 

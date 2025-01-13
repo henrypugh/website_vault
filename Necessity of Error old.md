@@ -1,12 +1,3 @@
----
-tags:
-  - philosophy
-confidence: 0.85
-importance: high
-date: 2025-01-13
-title: Necessity of Error
----
-
 
 # Necessity of Error
 

@@ -1,17 +1,3 @@
----
-tags:
-  - darwinism
-confidence:
-  - likely
-importance: 7
-date: 2025-01-13
-title: Universal Darwinism
-slug: universal-darwinism
-status: in_progress
-started_at: 2025-01-10
-finished_at:
----
-
 # Universal Darwinism
 
 

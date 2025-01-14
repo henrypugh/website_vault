@@ -4,109 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "d815bce3226597e1",
+        "id": "8643c8d8d936862b",
         "type": "tabs",
         "children": [
           {
-            "id": "ab3a16f9c78027f6",
+            "id": "c4833d0f17050c0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metaphors.md",
+                "file": "Backup/Necessity of Error.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Metaphors"
+              "title": "Necessity of Error"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "61e65aeee3bde2bd",
+        "type": "tabs",
+        "children": [
           {
-            "id": "c6e356a14dbeee54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Test"
-            }
-          },
-          {
-            "id": "5a7d94b0b4a61bbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metaphors.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Metaphors"
-            }
-          },
-          {
-            "id": "b63c6ad72a2b9dea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metaphors.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Metaphors"
-            }
-          },
-          {
-            "id": "6445ac37990b3af0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Memes as Extended Phentotype.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Memes as Extended Phentotype"
-            }
-          },
-          {
-            "id": "f52db9aad8b56685",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metaphors.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Metaphors"
-            }
-          },
-          {
-            "id": "12d69f2b5586a1c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI Slop as Pop.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AI Slop as Pop"
-            }
-          },
-          {
-            "id": "f20541f14961b286",
+            "id": "7c48e18f0a8a2b73",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -118,37 +40,8 @@
               "icon": "lucide-file",
               "title": "Universal Darwinism"
             }
-          },
-          {
-            "id": "e0ad86e9810e1673",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Necessity of Error.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Necessity of Error"
-            }
-          },
-          {
-            "id": "abc70adce328035d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Memes as Extended Phentotype.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Memes as Extended Phentotype"
-            }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -300,24 +193,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e0ad86e9810e1673",
+  "active": "c4833d0f17050c0d",
   "lastOpenFiles": [
-    "Necessity of Error old.md",
-    "Necessity of Error.md",
-    "Necessity of Error 1.md",
-    "Memes as Mind Virus.md",
-    "Metaphors.md",
     "Universal Darwinism.md",
-    "Test.md",
-    "README.md",
-    "AI Company.md",
+    "Backup/Necessity of Error.md",
+    "Backup/Universal Darwinism.md",
     "Templates/Note.md",
-    "AI Slop as Pop.md",
-    "Economic Bets.md",
+    "Backup/AI Company.md",
+    "Backup/Necessity of Error old.md",
+    "Backup/Free Markets as Natural Selection.md",
+    "Untitled/Untitled",
+    "Backup",
+    "Backup/Metaphors.md",
+    "Backup/AI Slop as Pop.md",
+    "Backup/README.md",
+    "Necessity of Error 1.md",
+    "Backup/Memes as Mind Virus.md",
+    "Backup/Test.md",
+    "Backup/Economic Bets.md",
     "Untitled.md",
     "Templates",
-    "Free Markets as Natural Selection.md",
-    "Memes as Extended Phentotype.md",
+    "Backup/Memes as Extended Phentotype.md",
     "~syncthing~New file.md.tmp",
     "~syncthing~Untitled.md.tmp",
     "test.md",
@@ -331,8 +227,6 @@
     "~syncthing~README.sync-conflict-20250111-000126-BOVZHOM.md.tmp",
     "~syncthing~New note test.sync-conflict-20250111-000126-BOVZHOM.md.tmp",
     "~syncthing~test.sync-conflict-20250111-000126-BOVZHOM.md.tmp",
-    "README.sync-conflict-20250111-000020-BOVZHOM.md",
-    "~syncthing~.sync-conflict-20250111-000020-BOVZHOM.gitignore.tmp",
-    "~syncthing~README.sync-conflict-20250111-000020-BOVZHOM.md.tmp"
+    "README.sync-conflict-20250111-000020-BOVZHOM.md"
   ]
 }

@@ -38,7 +38,7 @@ finished_at: ""
 -- Nietzsche
 
 
-Nietzsche's quote saying falseness of a judgement is not an objection to it. It is impossible to not make false judgement due to, limited information, being forced to make judgements, the nature of the world. Darwinian evolution requiring random variation and failures, for one variation to succeed. We all see extinction as tragedy. Something lost forever. Companies must trial and error [[Universal Darwinism]]. Trial and error is the scientific method. So we have converge on an idea from multiple sources, for objection to the falseness of an idea being no objection to it.
+Nietzsche's quote saying falseness of a judgement is not an objection to it. It is impossible to not make false judgement due to, limited information, being forced to make judgements, the nature of the world. Darwinian evolution requiring random variation and failures, for one variation to succeed. We all see extinction as tragedy. Something lost forever. Companies must trial and error [[Backup/Universal Darwinism]]. Trial and error is the scientific method. So we have converge on an idea from multiple sources, for objection to the falseness of an idea being no objection to it.
 
 Religion as a false judgment or error but useful anyway to those that believe in it. [[Memes as Extended Phentotype]]
 

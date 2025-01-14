@@ -1,8 +1,7 @@
 ---
 tags:
   - darwinism
-confidence:
-  - likely
+confidence: likely
 importance: 7
 date: 2025-01-13
 title: Universal Darwinism

@@ -1,21 +1,23 @@
-# to exclude Obsidian's settings (including plugin and hotkey configurations)
+# Exclude Obsidian settings, plugins, and workspace files
 .obsidian/
+
+# Optional: Only exclude specific Obsidian plugin configurations
+# Uncomment the line below if you want finer control
+#.obsidian/plugins
+
+# Optional: Only exclude specific Obsidian workspace files
+#.obsidian/workspace.json
+#.obsidian/workspace-mobile.json
+
+# Exclude Git-related files
 .git/
 .stfolder
 
-# to only exclude plugin configuration. Might be useful to prevent some plugin from exposing sensitive data
-.obsidian/plugins
-
-# OR only to exclude workspace cache
-.obsidian/workspace.json
-
-# to exclude workspace cache specific to mobile devices
-.obsidian/workspace-mobile.json
-
-# Add below lines to exclude OS settings and caches
+# Exclude OS-specific cache and temporary files
 .trash/
 .DS_Store
 
+# Exclude other specified folders
 Templates/
 Unpublished/
-.obsidian/
+

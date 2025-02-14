@@ -1,6 +1,7 @@
 ---
 tags:
   - darwinism
+  - economics
 confidence: likely
 importance: 7
 date: 2025-01-13
@@ -13,7 +14,7 @@ finished_at:
 
 # Universal Darwinism
 
-Edit
+Edit test
 
 ## Basic mechanisms
 

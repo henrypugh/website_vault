@@ -14,7 +14,6 @@ finished_at:
 
 # Universal Darwinism
 
-Edit test number 2
 
 ## Basic mechanisms
 

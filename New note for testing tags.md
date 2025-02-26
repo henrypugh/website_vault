@@ -5,7 +5,7 @@ tags:
   - philosophy
   - random_tag
 confidence: even chance
-importance: 5
+importance: 7
 title: New note for testing tags
 slug: 
 finished: true
@@ -16,3 +16,5 @@ published: true
 
 Your content goes here...
 and here 
+
+scrappy doo

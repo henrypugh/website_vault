@@ -11,7 +11,7 @@ finished: true
 published: true
 ---
 
-# Your Note Title Here
+# Internal link example
 
 internal:
 
@@ -27,4 +27,7 @@ https://www.avfc.co.uk/
 
 edited.
 
-New content!
+New content!!
+
+#darwinism 
+

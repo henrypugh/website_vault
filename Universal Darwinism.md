@@ -9,7 +9,7 @@ slug: your-note-title-here
 finished: true
 published: true
 ---
-# Your Note Title Here
+# Universal Darwinism
 
 internal:
 
@@ -23,4 +23,7 @@ not formatted:
 
 https://www.avfc.co.uk/ 
 
-edited!
+edited! 
+
+
+#economics  #spoon 

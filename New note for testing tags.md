@@ -24,4 +24,4 @@ not formatted:
 
 https://www.avfc.co.uk/ 
 
-Here is some new content. Have a read.
+Here is some new content. Have a read!

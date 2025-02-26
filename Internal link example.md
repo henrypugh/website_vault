@@ -21,7 +21,7 @@ formatted:
 
 [external link to avfc](https://www.avfc.co.uk/)
 
-not formatted:
+not formatted: 
 
 https://www.avfc.co.uk/ 
 

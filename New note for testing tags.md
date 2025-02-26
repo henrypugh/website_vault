@@ -1,9 +1,7 @@
 ---
 tags:
-  - darwinism
-  - economics
-  - philosophy
-  - random_tag
+  - glass
+  - drink
 confidence: even chance
 importance: 7
 title: New note for testing tags
@@ -14,8 +12,16 @@ published: true
 
 # Your Note Title Here
 
-Your content goes here...
-and here 
+internal:
 
 [[Universal Darwinism]]
 
+formatted:  
+
+[external link to avfc](https://www.avfc.co.uk/)
+
+not formatted:
+
+https://www.avfc.co.uk/ 
+
+editted.

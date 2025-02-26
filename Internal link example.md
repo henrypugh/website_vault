@@ -1,14 +1,14 @@
 ---
 tags:
-  - darwinism
-  - economics
-  - philosophy
+  - spoon
+  - knife
+  - fork
 confidence: even chance
 importance: 5
 title: Your Note Title Here
 slug: your-note-title-here
 finished: true
-published: false
+published: true
 ---
 
 # Your Note Title Here
@@ -24,3 +24,5 @@ formatted:
 not formatted:
 
 https://www.avfc.co.uk/ 
+
+editted.
